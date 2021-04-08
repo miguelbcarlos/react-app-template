@@ -234,7 +234,7 @@ function NavBar(props) {
                 display="inline"
                 color="secondary"
               >
-                Moldu
+                Moldunet
               </Typography>
               <Typography
                 variant="h4"
