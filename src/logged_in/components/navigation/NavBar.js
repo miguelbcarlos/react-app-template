@@ -232,7 +232,7 @@ function NavBar(props) {
                 variant="h4"
                 className={classes.brandText}
                 display="inline"
-                color="primary"
+                color="secondary"
               >
                 Moldu
               </Typography>
@@ -240,7 +240,7 @@ function NavBar(props) {
                 variant="h4"
                 className={classes.brandText}
                 display="inline"
-                color="secondary"
+                color="primary"
               >
                 net
               </Typography>
